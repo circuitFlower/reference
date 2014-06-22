@@ -9,7 +9,7 @@
             // unique URL of your agent. e.g. the last part of:
             // https://agent.electricimp.com/UpyYpRLmBB7m
             // pollRate defines how often the values on your page will refresh.
-            var externalURL ="kcrkIKk9Tysm";
+            var externalURL ="your imp ID here";
             var pollRate ="1";
 
             function poll(){
